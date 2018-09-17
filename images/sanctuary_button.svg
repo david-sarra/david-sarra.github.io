@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="122px" height="22px" viewBox="0 0 122 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>The Sanctuary</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="The-Sanctuary">
+            <g id="learn_button" transform="translate(0.000000, -11.000000)">
+                <text id="The-Sanctuary" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#785B8B">
+                    <tspan x="0" y="26">The Sanctuary</tspan>
+                </text>
+                <g id="ic_chevron_right" transform="translate(92.000000, 0.000000)">
+                    <g id="Icon-24px">
+                        <polygon id="Shape" fill="#785B8B" points="18.3333333 11.0339506 15.7483333 13.626929 24.145 22.0679012 15.7483333 30.5088735 18.3333333 33.1018519 29.3333333 22.0679012"></polygon>
+                        <polygon id="Shape" points="0 0 44 0 44 44.1358025 0 44.1358025"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

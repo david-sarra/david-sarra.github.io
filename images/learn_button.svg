@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="141px" height="36px" viewBox="0 0 141 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>learn_button_true</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="14.1666667 8.52623457 12.1691667 10.5298997 18.6575 17.0524691 12.1691667 23.5750386 14.1666667 25.5787037 22.6666667 17.0524691"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="learn_button_true">
+            <g id="learn_button">
+                <rect id="Rectangle" fill="#785B8B" x="0.864615385" y="0" width="140" height="36" rx="18"></rect>
+                <text id="Learn-More" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#EDEEF2">
+                    <tspan x="20" y="23.0864198">Learn More</tspan>
+                </text>
+            </g>
+            <g id="ic_chevron_right" transform="translate(109.000000, 1.058642)">
+                <g id="Icon-24px">
+                    <g id="Shape" stroke-linecap="round" stroke-linejoin="round">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <path stroke="#FFFFFF" stroke-width="1" d="M17.9522465,17.0524691 L11.8146842,23.2224167 L11.4635305,23.5754233 L11.8150689,23.9280468 L13.8125689,25.9317119 L14.1666667,26.2869025 L14.5207644,25.9317119 L23.0207644,17.4054773 L23.3726864,17.0524691 L23.0207644,16.6994609 L14.5207644,8.17322636 L14.1666667,7.81803573 L13.8125689,8.17322636 L11.8150689,10.1768915 L11.4635305,10.5295149 L11.8146842,10.8825215 L17.9522465,17.0524691 Z"></path>
+                    </g>
+                    <polygon id="Shape" points="0 0 34 0 34 34.1049383 0 34.1049383"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
